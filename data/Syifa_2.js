@@ -1,0 +1,1 @@
+var json_Syifa_2 = {"type":"FeatureCollection","name":"Syifa_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"12","Nama":"Syifa","Harga":"600000","Kos":"Muslimah"},"geometry":{"type":"Point","coordinates":[106.808016234576058,-6.591816117622797]}}]}
